@@ -2,11 +2,11 @@
 Mopidy-radio-de
 ***************
 
-.. image:: https://pypip.in/v/Mopidy-radio-de/badge.png
+.. image:: https://img.shields.io/pypi/v/Mopidy-radio-de.svg
     :target: https://pypi.python.org/pypi/Mopidy-radio-de/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/Mopidy-radio-de/badge.png
+.. image:: https://img.shields.io/pypi/dm/Mopidy-radio-de.svg
     :target: https://pypi.python.org/pypi/Mopidy-radio-de/
     :alt: Number of PyPI downloads
 
